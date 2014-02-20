@@ -20,11 +20,15 @@ body {
 
 
 h3 {
-	font-family: "Londrina Sketch", cursive;
+	font-family: "Peralta", cursive;
 }
 
 h4 {
-	font-family: "Wire One", cursive;
+	font-family: "Peralta", cursive;
+}
+
+p {
+	font-family: "Peralta", cursive;
 }
 
 .letteru {
