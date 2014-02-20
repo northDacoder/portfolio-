@@ -3,10 +3,8 @@
 
 body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
-	background-image: url("images/plaidblack.jpg");
-	background-size: 100% 100%;
-	background-repeat: none;
-	background-attachment: fixed;
+	/*background-image: url('images/plaidblack.jpg');*/
+	/*background-repeat: repeat;*/
 	height: 100%;
 	width: 100%;
 	background-color: rgba(0,0,0,.9);
@@ -31,6 +29,19 @@ h4 {
 
 .letteru {
 	color: white;
+}
+
+img#pangeaScreen {
+	background-image: url('images/pangea1.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 700px;
+	height: 300px;
+}
+
+img.img-responsive {
+	border: 10px solid rgba(0,0,0,.8);
+	box-shadow: 2px 2px 2px #333;
 }
 
 footer {
